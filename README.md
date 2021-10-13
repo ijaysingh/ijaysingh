@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science & Machine Learning
 - 💬 Ask me about Numpy, Pandas, Data Visualizations
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/rana-jay-pratap-singh-b959a7196/">LinkedIn</a>
-- 😄 Lamguages: Python, CPP
+- 😄 Languages: Python, CPP
 - ⚡ Glad to see you here
 
 
