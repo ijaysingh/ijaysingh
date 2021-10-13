@@ -1,4 +1,4 @@
-### Hi there, I'm Rana Jay Pratap Singh 👋
+### Hi there, I'm <a href="https://www.linkedin.com/in/rana-jay-pratap-singh-b959a7196/">Rana Jay Pratap Singh</a> 👋
 
 <!--
 **ijaysingh/ijaysingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
