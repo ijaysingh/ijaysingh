@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working at @BrighterBees
-- 🌱 I’m currently learning Data Science & Machine Learning
-- 💬 Ask me about Numpy, Pandas, Data Visualizations
+- 🔭 I’m currently trainee at Jspiders, Bengalore
+- 🌱 I’m currently learning Java Full Stack Development
+- 💬 Ask me about Java(Core and Advance), React, and Web Development
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/rana-jay-pratap-singh-b959a7196/">LinkedIn</a>
-- 😄 Languages: Python, CPP
+- 😄 Languages: Java, Python, CPP
 - ⚡ Glad to see you here
 
 
