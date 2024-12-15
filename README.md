@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ijaysingh&label=Profile%20views&color=0e75b6&style=flat" alt="ijaysingh" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ijaysingh" alt="ijaysingh" /></a> </p>
+
 - 🌱 I’m currently learning **SwiftUI**
 
 - 💬 Ask me about **iOS App Development**
