@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ijaysingh&label=Profile%20views&color=0e75b6&style=flat" alt="ijaysingh" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ijaysingh&theme=github_dark&row=1&no-frame=true" alt="ijaysingh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ijaysingh&theme=onedark&row=1&no-frame=true" alt="ijaysingh" /></a> </p>
 
 ---
 
