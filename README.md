@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ijaysingh&label=Profile%20views&color=0e75b6&style=flat" alt="ijaysingh" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ijaysingh&theme=onedark&row=1&no-frame=true" alt="ijaysingh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ijaysingh&theme=github_dark&row=1&no-frame=true" alt="ijaysingh" /></a> </p>
 
 ---
 
@@ -48,10 +48,10 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ijaysingh&show_icons=true&locale=en&layout=compact&theme=radical" alt="ijaysingh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ijaysingh&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="ijaysingh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ijaysingh&show_icons=true&locale=en&theme=radical" alt="ijaysingh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ijaysingh&show_icons=true&locale=en&theme=github_dark" alt="ijaysingh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ijaysingh&theme=radical" alt="ijaysingh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ijaysingh&theme=github_dark" alt="ijaysingh" /></p>
 
 ---
