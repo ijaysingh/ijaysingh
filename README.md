@@ -48,7 +48,7 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ijaysingh&show_icons=true&locale=en&theme=github_dark" alt="ijaysingh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ijaysingh&show_icons=true&locale=en&theme=github_dark" alt="ijaysingh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ijaysingh&show_icons=true&locale=en&theme=github_dark" alt="ijaysingh" /></p>
 
